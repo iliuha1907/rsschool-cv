@@ -6,3 +6,4 @@ Contact: ilyaguzei@yandex.ru
 
 Address: Minsk, Hintovta str.
 
+Job: Student
